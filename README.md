@@ -4,3 +4,6 @@ U can download this project and use this code for u'r projects.
 
 Random Spawn Point.
 Initiatize something on your screen.
+
+Mirror reflection effect.
+Reflect vector after collision.
